@@ -1,14 +1,14 @@
 {
   "tests": [
     {
-      "name": "Teste",
+      "name": "Test",
       "setup": "npm install",
       "run": "npm run test",
       "input": "",
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 10
     }
   ]
 }
